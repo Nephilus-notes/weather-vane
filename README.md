@@ -1,2 +1,2 @@
 # weather-vane
-A program to get uptodate weather information
+A program to get up to date weather information
